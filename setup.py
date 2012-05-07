@@ -5,7 +5,7 @@
 NAME = 'ZenPacks.sodonnell.MACReport'
 VERSION = '1.0.1'
 AUTHOR = 'Steven O\'Donnell'
-LICENSE = ''
+LICENSE = "GPLv2"
 NAMESPACE_PACKAGES = ['ZenPacks', 'ZenPacks.sodonnell']
 PACKAGES = ['ZenPacks', 'ZenPacks.sodonnell', 'ZenPacks.sodonnell.MACReport']
 INSTALL_REQUIRES = []
